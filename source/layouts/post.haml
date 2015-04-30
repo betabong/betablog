@@ -1,7 +1,7 @@
 %main.content{role: :main}
   %article.post.tag-getting-started
     %header.post-header
-      %a.blog-logo{href: '/'}
+      %a.blog-logo{href: url_for('/index.html')}
         - if blog_logo?
           = image_tag blog_logo, alt: 'Blog Logo'
         - else
