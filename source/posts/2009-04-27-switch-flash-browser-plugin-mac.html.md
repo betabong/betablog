@@ -1,6 +1,6 @@
 ---
 title: Switch Flash Browser Plugin on Mac OS X
-link: http://blog.betabong.com/2009/04/27/switch-flash-browser-plugin-mac/
+link: /2009/04/27/switch-flash-browser-plugin-mac/
 date: 2009-04-27
 ---
 

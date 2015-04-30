@@ -1,6 +1,6 @@
 ---
 title: Method Closure Owner (arguments.caller)
-link: http://blog.betabong.com/2009/03/26/method-closure-owner/
+link: /2009/03/26/method-closure-owner/
 date: 2009-03-26
 ---
 

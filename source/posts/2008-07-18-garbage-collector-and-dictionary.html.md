@@ -1,6 +1,6 @@
 ---
 title: Garbage Collector and Dictionary
-link: http://blog.betabong.com/2008/07/18/garbage-collector-and-dictionary/
+link: /2008/07/18/garbage-collector-and-dictionary/
 date: 2008-07-18
 ---
 

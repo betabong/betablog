@@ -1,6 +1,6 @@
 ---
 title: swffit - pro & contra
-link: http://blog.betabong.com/2009/04/07/swffit-pro-con/
+link: /2009/04/07/swffit-pro-con/
 date: 2009-04-07
 ---
 

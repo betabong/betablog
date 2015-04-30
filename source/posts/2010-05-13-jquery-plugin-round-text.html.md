@@ -1,6 +1,6 @@
 ---
 title: "jQuery Plugin: Round Text"
-link: http://blog.betabong.com/2010/05/13/jquery-plugin-round-text/
+link: /2010/05/13/jquery-plugin-round-text/
 date: 2010-05-13
 ---
 

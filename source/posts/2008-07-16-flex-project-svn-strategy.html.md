@@ -1,6 +1,6 @@
 ---
 title: Flex Project - SVN Strategy
-link: http://blog.betabong.com/2008/07/16/flex-project-svn-strategy/
+link: /2008/07/16/flex-project-svn-strategy/
 author: admin
 date: 2008-07-16
 ---

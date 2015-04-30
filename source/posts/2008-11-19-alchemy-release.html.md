@@ -1,6 +1,6 @@
 ---
 title: Alchemy – THE cool new flash feature!
-link: http://blog.betabong.com/2008/11/19/alchemy-release/
+link: /2008/11/19/alchemy-release/
 date: 2008-11-19
 ---
 

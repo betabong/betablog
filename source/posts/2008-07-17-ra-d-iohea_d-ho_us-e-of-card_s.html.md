@@ -1,6 +1,6 @@
 ---
 title: RA D IOHEA_D HO_US E OF/ CARD_S
-link: http://blog.betabong.com/2008/07/17/ra-d-iohea_d-ho_us-e-of-card_s/
+link: /2008/07/17/ra-d-iohea_d-ho_us-e-of-card_s/
 author: admin
 date: 2008-07-17
 ---

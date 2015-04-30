@@ -1,6 +1,6 @@
 ---
 title: How to watch TV from abroad
-link: http://blog.betabong.com/2009/11/30/how-to-watch-tv-from-abroad/
+link: /2009/11/30/how-to-watch-tv-from-abroad/
 date: 2009-11-30
 ---
 

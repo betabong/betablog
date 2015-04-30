@@ -1,6 +1,6 @@
 ---
 title: How about we go fuck instead?
-link: http://blog.betabong.com/2008/10/09/how-about-we-go-fuck-instead/
+link: /2008/10/09/how-about-we-go-fuck-instead/
 date: 2008-10-09
 ---
 

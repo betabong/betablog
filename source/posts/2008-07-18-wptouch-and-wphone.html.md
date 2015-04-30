@@ -1,6 +1,6 @@
 ---
 title: WPtouch and WPhone
-link: http://blog.betabong.com/2008/07/18/wptouch-and-wphone/
+link: /2008/07/18/wptouch-and-wphone/
 date: 2008-07-18
 ---
 

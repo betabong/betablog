@@ -1,6 +1,6 @@
 ---
 title: Garbage Collection, Dictionaries and Listeners
-link: http://blog.betabong.com/2009/09/09/garbage-collection-dictionary-listener/
+link: /2009/09/09/garbage-collection-dictionary-listener/
 date: 2009-09-09
 ---
 

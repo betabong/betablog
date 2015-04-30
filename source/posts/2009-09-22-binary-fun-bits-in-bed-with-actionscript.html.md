@@ -1,6 +1,6 @@
 ---
 title: Binary Fun - Bits in Bed with Actionscript
-link: http://blog.betabong.com/2009/09/22/binary-fun-bits-in-bed-with-actionscript/
+link: /2009/09/22/binary-fun-bits-in-bed-with-actionscript/
 date: 2009-09-22
 ---
 

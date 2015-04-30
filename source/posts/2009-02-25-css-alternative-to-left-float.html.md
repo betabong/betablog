@@ -1,6 +1,6 @@
 ---
 title: CSS Alternative to Left Float
-link: http://blog.betabong.com/2009/02/25/css-alternative-to-left-float/
+link: /2009/02/25/css-alternative-to-left-float/
 date: 2009-02-25
 ---
 

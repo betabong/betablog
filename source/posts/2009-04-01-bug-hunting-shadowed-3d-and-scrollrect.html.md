@@ -1,6 +1,6 @@
 ---
 title: "Bug Hunting: Shadowed 3D and ScrollRect"
-link: http://blog.betabong.com/2009/04/01/bug-hunting-shadowed-3d-and-scrollrect/
+link: /2009/04/01/bug-hunting-shadowed-3d-and-scrollrect/
 date: 2009-04-01
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "CoverFlow: 3D with Flash Player 10"
-link: http://blog.betabong.com/2008/12/08/coverflow-3d-with-flash-player-10/
+link: /2008/12/08/coverflow-3d-with-flash-player-10/
 date: 2008-12-08
 ---
 

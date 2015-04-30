@@ -1,6 +1,6 @@
 ---
 title: MetaTunnel with Pixel Bender
-link: http://blog.betabong.com/2009/04/17/metatunnel-with-pixel-bender/
+link: /2009/04/17/metatunnel-with-pixel-bender/
 date: 2009-04-17
 ---
 

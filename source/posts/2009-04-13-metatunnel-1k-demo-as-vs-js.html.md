@@ -1,6 +1,6 @@
 ---
 title: "Metatunnel 1k Demo: AS vs. JS"
-link: http://blog.betabong.com/2009/04/13/metatunnel-1k-demo-as-vs-js/
+link: /2009/04/13/metatunnel-1k-demo-as-vs-js/
 date: 2009-04-13
 ---
 

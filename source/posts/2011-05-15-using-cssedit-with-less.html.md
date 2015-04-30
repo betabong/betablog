@@ -1,6 +1,6 @@
 ---
 title: Using CSSEdit with LESS
-link: http://blog.betabong.com/2011/05/15/using-cssedit-with-less/
+link: /2011/05/15/using-cssedit-with-less/
 date: 2011-05-15
 ---
 

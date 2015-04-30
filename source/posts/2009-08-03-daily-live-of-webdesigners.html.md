@@ -1,6 +1,6 @@
 ---
 title: Daily Live of Webdesigners
-link: http://blog.betabong.com/2009/08/03/daily-live-of-webdesigners/
+link: /2009/08/03/daily-live-of-webdesigners/
 date: 2009-08-03
 ---
 

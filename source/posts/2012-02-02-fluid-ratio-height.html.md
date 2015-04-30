@@ -1,6 +1,6 @@
 ---
 title: Fluid Ratio Height
-link: http://blog.betabong.com/2012/02/02/fluid-ratio-height/
+link: /2012/02/02/fluid-ratio-height/
 date: 2012-02-02
 ---
 

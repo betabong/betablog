@@ -1,6 +1,6 @@
 ---
 title: edel*flash 2.0
-link: http://blog.betabong.com/2008/10/30/edelflash-v2/
+link: /2008/10/30/edelflash-v2/
 date: 2008-10-30
 ---
 

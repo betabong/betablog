@@ -1,6 +1,6 @@
 ---
 title: Weak Method Closure
-link: http://blog.betabong.com/2008/09/26/weak-method-closure/
+link: /2008/09/26/weak-method-closure/
 date: 2008-09-26
 ---
 

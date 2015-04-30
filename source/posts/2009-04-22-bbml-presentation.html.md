@@ -1,6 +1,6 @@
 ---
 title: BBML Presentation at SFUG
-link: http://blog.betabong.com/2009/04/22/bbml-presentation/
+link: /2009/04/22/bbml-presentation/
 date: 2009-04-22
 ---
 

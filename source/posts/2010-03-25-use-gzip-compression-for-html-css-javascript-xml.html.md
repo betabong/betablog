@@ -1,6 +1,6 @@
 ---
 title: Use GZip compression for your website
-link: http://blog.betabong.com/2010/03/25/use-gzip-compression-for-html-css-javascript-xml/
+link: /2010/03/25/use-gzip-compression-for-html-css-javascript-xml/
 date: 2010-03-25
 ---
 

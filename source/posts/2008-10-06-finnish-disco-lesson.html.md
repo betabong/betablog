@@ -1,6 +1,6 @@
 ---
 title: Finnish Disco Lesson
-link: http://blog.betabong.com/2008/10/06/finnish-disco-lesson/
+link: /2008/10/06/finnish-disco-lesson/
 date: 2008-10-06
 ---
 

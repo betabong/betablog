@@ -1,6 +1,6 @@
 ---
 title: GridFitType (& animation)
-link: http://blog.betabong.com/2009/04/13/gridfittype-animation/
+link: /2009/04/13/gridfittype-animation/
 date: 2009-04-13
 ---
 

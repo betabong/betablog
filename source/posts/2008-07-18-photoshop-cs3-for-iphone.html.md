@@ -1,6 +1,6 @@
 ---
 title: Photoshop CS3 for iPhone
-link: http://blog.betabong.com/2008/07/18/photoshop-cs3-for-iphone/
+link: /2008/07/18/photoshop-cs3-for-iphone/
 author: admin
 date: 2008-07-18
 ---
