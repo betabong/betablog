@@ -13,7 +13,7 @@ install:
   - git config --global user.email ${GIT_NAME}
   - git config --global user.name ${GIT_EMAIL}
   - bundle install
-  - git clone -b master https://${GH_TOKEN}@github.com/betabong/betablog.github.io.git build
+  - git clone -b gh-pages https://${GH_TOKEN}@github.com/betabong/betablog.git build
 
 script:  bundle exec middleman build
 
