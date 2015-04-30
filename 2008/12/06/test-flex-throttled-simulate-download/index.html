@@ -9,8 +9,8 @@
 <meta content='True' name='HandheldFriendly'>
 <meta content='320' name='MobileOptimized'>
 <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
-<link href="/images/favicon.ico" rel="icon" type="image/ico" />
-<link href="/stylesheets/application.css" rel="stylesheet" type="text/css" />
+<link href="../../../../images/favicon.ico" rel="icon" type="image/ico" />
+<link href="../../../../stylesheets/application.css" rel="stylesheet" type="text/css" />
 </head>
 <body class='post-template tag-getting-started'>
 <main class='content' role='main'>
@@ -30,14 +30,14 @@
 
 <ol>
 <li><a href="http://www.dallaway.com/sloppy/">Open the <strong>Sloppy website</strong></a></li>
-<li>Click the little <strong>Sloppy icon</strong>: <img src="/uploads/2008/12/picture-10.png" /><a href="http://blog.betabong.com/uploads/2008/12/picture-10.png"> </a></li>
+<li>Click the little <strong>Sloppy icon</strong>: <img src="../../../../uploads/2008/12/picture-10.png" /><a href="http://blog.betabong.com/uploads/2008/12/picture-10.png"> </a></li>
 <li>A «sloppy.jnlp» file is downloaded. <strong>Open it</strong> if doesn&rsquo;t open automatically.</li>
 <li>The actual application will be downloaded and started. If it asks you to trust: <strong>trust!</strong> :-)</li>
-<li><strong>Enter the address</strong> of your html file in the bin-debug or bin-release folder. It should be a webserver address. I usually create a <a href="http://www.macupdate.com/info.php/id/10433/symboliclinker">symbolic link</a> of my project directory and put it into my local webserver directory. <img src="/uploads/2008/12/picture-11.png" /></li>
+<li><strong>Enter the address</strong> of your html file in the bin-debug or bin-release folder. It should be a webserver address. I usually create a <a href="http://www.macupdate.com/info.php/id/10433/symboliclinker">symbolic link</a> of my project directory and put it into my local webserver directory. <img src="../../../../uploads/2008/12/picture-11.png" /></li>
 <li><strong>Click «Go»</strong> – this will start the Sloppy proxy and open the page in your default browser. </li>
-<li><strong>Copy the address</strong> from the browser window (usually http://127.0.0.1:7569/your/path) <img src="/uploads/2008/12/picture-12.png" /></li>
-<li>You may close the window. Go to Flex Builder and <strong>open the project properties</strong> (right click on project folder, last item). In an Actionscript Project, switch to ActionScript Build Path. <img src="/uploads/2008/12/picture-14-300x289.png" /> </li>
-<li>Enter the copied address into <strong>«Output folder URL»</strong>, clear the html name (e.g. App.html). <img src="/uploads/2008/12/picture-15.png" /></li>
+<li><strong>Copy the address</strong> from the browser window (usually http://127.0.0.1:7569/your/path) <img src="../../../../uploads/2008/12/picture-12.png" /></li>
+<li>You may close the window. Go to Flex Builder and <strong>open the project properties</strong> (right click on project folder, last item). In an Actionscript Project, switch to ActionScript Build Path. <img src="../../../../uploads/2008/12/picture-14-300x289.png" /> </li>
+<li>Enter the copied address into <strong>«Output folder URL»</strong>, clear the html name (e.g. App.html). <img src="../../../../uploads/2008/12/picture-15.png" /></li>
 <li>Click «OK» and <strong>you&rsquo;re done</strong>. You can now Run and Debug as if your website was hosted on some server and you had a 256K ADSL connection (instead of your T1).
 Note: I tried to automate the whole thing (with Ant of course) and succeeded to a certain limit. What I did was download <a href="http://code.google.com/p/sloppy/">Sloopy&rsquo;s source code</a> (java), modify it so it can handle more terminal attributes and build the  .jar file. This can be run on command line, which will start the sloopy server. So I created an ant file that does all that for me, but this ant file would only be cool, if it could also trigger the run or debug commands and modify the output folder url. I haven&rsquo;t found a way (at least not a satisfying one) to do this, so I might just follow the manual street for once ;) Another note: If you are windows user, you might wanna try this Firefox plugin: <a href="https://addons.mozilla.org/en-US/firefox/addon/5917">Firefox Throttle</a></li>
 </ol>

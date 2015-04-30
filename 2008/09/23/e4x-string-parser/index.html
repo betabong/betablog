@@ -9,8 +9,8 @@
 <meta content='True' name='HandheldFriendly'>
 <meta content='320' name='MobileOptimized'>
 <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
-<link href="/images/favicon.ico" rel="icon" type="image/ico" />
-<link href="/stylesheets/application.css" rel="stylesheet" type="text/css" />
+<link href="../../../../images/favicon.ico" rel="icon" type="image/ico" />
+<link href="../../../../stylesheets/application.css" rel="stylesheet" type="text/css" />
 </head>
 <body class='post-template tag-getting-started'>
 <main class='content' role='main'>
@@ -33,7 +33,7 @@ var result : XMLList = E4X.evaluate( xmllist , "author.( name.@last == 'Jobs' )"
 // E4X.evaluate( source : XMLList , expression : String ) : XMLList
 </code></pre>
 
-<p>  If your source is XML, just do XMLList( xml ), if your result should be xml, do xml = result[0] <a href="/showcase/e4x/E4X_Parse_Test.html">Test it here</a> <img src="/uploads/2008/09/e4x.png" /> <strong>Restrictions:</strong> You can&rsquo;t use AND/OR in comparisions. So, this won&rsquo;t go: author.( name.@first == &lsquo;Steve&rsquo; &amp;&amp; name.@last == &#39;Jobs&rsquo; ) – though this is only a real limitations for OR. do this for AND: author.( name.@first == &#39;Steve&rsquo; ).( name.@last == &#39;Jobs&rsquo; ). <strong>What you can do:</strong> Yes, you can do quite advanced stuff like author.( name.@first == name.@last ) or car.@rating.average() (one of the few proprietary functions I added). Or even </p>
+<p>  If your source is XML, just do XMLList( xml ), if your result should be xml, do xml = result[0] <a href="/showcase/e4x/E4X_Parse_Test.html">Test it here</a> <img src="../../../../uploads/2008/09/e4x.png" /> <strong>Restrictions:</strong> You can&rsquo;t use AND/OR in comparisions. So, this won&rsquo;t go: author.( name.@first == &lsquo;Steve&rsquo; &amp;&amp; name.@last == &#39;Jobs&rsquo; ) – though this is only a real limitations for OR. do this for AND: author.( name.@first == &#39;Steve&rsquo; ).( name.@last == &#39;Jobs&rsquo; ). <strong>What you can do:</strong> Yes, you can do quite advanced stuff like author.( name.@first == name.@last ) or car.@rating.average() (one of the few proprietary functions I added). Or even </p>
 <pre class="highlight plaintext"><code>*..car.( @brand.toLowerCase() == 'volvo' ).( parent().( localName() == 'group' ).@rating &gt; @rating )
 </code></pre>
 
